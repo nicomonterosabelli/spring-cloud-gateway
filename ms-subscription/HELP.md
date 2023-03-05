@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.dh.ms-subscription' is invalid and this project uses 'com.dh.mssubscription' instead.
+* The original package name 'com.dh.ms-subscription' is invalid and this project uses 'com.dh.movieservice' instead.
 
 # Getting Started
 
